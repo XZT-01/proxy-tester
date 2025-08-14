@@ -27,4 +27,7 @@ some respurces you can bring proxies from :
 - https://proxiware.com/free-proxy-list?utm_source=chatgpt.com
 
 this program is open source but as a respect when you edit or added extra feature for this program 😁
+
 mention my username: @XZT-01
+
+watch at release , i described everything about the installation
